@@ -517,7 +517,9 @@ a.anchor{
 
 /* Extra changes */
 
+@media screen and (min-width: 600px) {
 .container {
   padding-right: 100px;
   padding-left: 100px;
+}
 }
