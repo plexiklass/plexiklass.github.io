@@ -104,9 +104,8 @@ a:focus {
 }
 
 .navbar-brand {
-	font-family: 'Faster One', sans-serif;
-  font-size: 30px;
-  font-weight: bold;
+	font-family: 'Faster One';
+  font-size: 35px;
   font-style: italic;
 }
 
@@ -522,4 +521,17 @@ a.anchor{
   padding-right: 100px;
   padding-left: 100px;
 }
+}
+
+.carousel-inner {
+  max-height: 400px;
+}
+
+.white-font {
+  color: white;
+}
+
+#logo {
+  width: 150px;
+  padding-bottom: 10px;
 }
