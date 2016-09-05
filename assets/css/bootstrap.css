@@ -1699,9 +1699,8 @@ output {
   background-color: #fff;
   background-image: none;
   border: 1px solid #ccc;
-  border-radius: 4px;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
-          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  border-right: none;
+  border-left: none;
   -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
           transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
@@ -2089,8 +2088,8 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  color: #fff;
-  background-color: #3276b1;
+  color: #333;
+  background-color: #d6ebff;
   border-color: #285e8e;
 }
 .btn-primary:active,
@@ -3455,6 +3454,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li {
   position: relative;
   display: block;
+  border-right: 1px solid #ccc;
+}
+.nav > li:last-child {
+  border-right: none;
+}
+.nav > li:hover {
+  background-color: #d6ebff;
 }
 .nav > li > a {
   position: relative;

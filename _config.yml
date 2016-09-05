@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: FAST TRACK
+title: Plexi-Klass Manufacturing
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -40,11 +40,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - 1569 Pembroke St,
-    - V8R 1W1, Victoria, BC,
+    - 545 John St,
+    - VV8T 5B4, Victoria, BC,
     - Canada.
-email: fast.track@shaw.ca
-tel: (250) 370-1334
+email: pkm@island.net
+tel: (250) 382-7539
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
