@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Pieces for Psychological Experiments at UVIC"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_05.jpg
+img_thumb: psychology_department_experimental_pieces_thumb.jpg
+img: psychology_department_experimental_pieces.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

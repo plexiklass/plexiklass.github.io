@@ -1,11 +1,13 @@
 ---
 layout: project
+title: "Donation box"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_10.jpg
-thumb: thumb02.jpg
+img_thumb: donation_collector_thumb.jpg
+img: donation_collector.jpg
+thumb: IMG_1297.jpg
 carousel:
 - single01.jpg
 - single02.jpg

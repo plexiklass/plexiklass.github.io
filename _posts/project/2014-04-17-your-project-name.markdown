@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Acrylic signage"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_08.jpg
+img_thumb: acrylic_signs_thumb.jpg
+img: acrylic_signs.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

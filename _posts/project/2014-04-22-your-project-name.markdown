@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Lockable Boxes"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_03.jpg
+img_thumb: lockable_colored_boxes_thumb.jpg
+img: lockable_colored_boxes.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

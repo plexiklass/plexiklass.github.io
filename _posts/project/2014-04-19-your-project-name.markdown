@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Donation Boxes for the Royal Canadian Legion"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_06.jpg
+img_thumb: RCL_donation_box_thumb.jpg
+img: RCL_donation_box.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg

@@ -1,11 +1,12 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "ABS stands"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_07.jpg
+img_thumb: black_ABS_stands_thumb.jpg
+img: black_ABS_stands.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
