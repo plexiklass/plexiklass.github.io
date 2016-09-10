@@ -2,7 +2,6 @@
 {
 	position:relative;
 	zoom:1;
-
 	*display:inline;
 	position:relative;
 }
@@ -38,6 +37,7 @@
 .he-view-show
 {
 	visibility:visible;
+	padding: 3px 1.5px 1.5px 3px;
 }
 .he-sliders
 {
